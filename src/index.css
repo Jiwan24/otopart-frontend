@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+html, body {
+  background-color: #0f0f0f !important; /* Warna hitam tema kamu */
+  margin: 0;
+  padding: 0;
+}
